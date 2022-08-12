@@ -1,0 +1,16 @@
+h1{ color: aqua;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+ul{
+    color: white;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+p 
+{
+    color: blueviolet;
+    font-family: helvetica;
+}
